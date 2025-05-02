@@ -75,7 +75,7 @@
 
 
 
-## 🔍 Analysis
+## Analysis
 - **MTCNN** is available with pre-trained models in both **PyTorch** and **TensorFlow**,  
   making it flexible for integration into different deep learning environments.
 
